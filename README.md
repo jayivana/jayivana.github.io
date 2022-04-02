@@ -1,2 +1,2 @@
 # jayivana.github.io
-This will hold my work for my work for Web Design Class
+This will hold my work for Web Design & Development 
